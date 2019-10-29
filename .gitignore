@@ -20,7 +20,7 @@ build/
 *.iml
 *.ipr
 out/
-./springreact/node_modules
+./springreact/node_modules/
 
 ### NetBeans ###
 /nbproject/private/
